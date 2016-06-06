@@ -1,0 +1,5 @@
+*.3*
+*.pca*
+*.out
+out*
+oprofile_data
