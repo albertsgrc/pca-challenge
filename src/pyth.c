@@ -30,7 +30,7 @@ int main() {
     scanf("%d", &n);
     while (n != 0) {
         if (n < 5) printf("%d\n", 0);
-        //else printf("%d\n", compute_triples_from(3, 4, 5));
+        else printf("%d\n", compute_triples_from(3, 4, 5));
         scanf("%d", &n);
     }
 
